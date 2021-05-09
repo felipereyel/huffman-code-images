@@ -7,7 +7,7 @@
 ## Instrucoes de como rodar
 O projeto tem uma versao online e uma local
 ### Versao Online [Preferencial]
-O projeto original se encontra no [Google Colab](https://colab.research.google.com/drive/1YG0zfJtsOE1sR1qa3Yh2mLSKNtJyQjj0?usp=sharing)
+O projeto original se encontra no [Google Colab](https://colab.research.google.com/drive/1YG0zfJtsOE1sR1qa3Yh2mLSKNtJyQjj0?usp=sharing) (acessível com o email do IME)
 
 O projeto foi quebrado em 4 blocos que nao se comunicam, a nao ser pelos arquivos no runtime:
 - Login com o Google para baixar os arquivos direto do Classroom
